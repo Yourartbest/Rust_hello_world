@@ -2,4 +2,4 @@
 Hello world introduction to Rust
 
 To run use "cargo run"
-to compile use "rustc programName.rs"
+<br>To compile use "rustc programName.rs"
